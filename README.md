@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## direcciones
+- http://127.0.0.1:8000/insertar Insertamos los registros.
+- http://127.0.0.1:8000/pedidos_usuario_2 mostramos los pedidos del usuario con ID 2.
+- http://127.0.0.1:8000/pedidos_con_usuarios  Muestra pedidos con datos del usuario.
+- http://127.0.0.1:8000/pedidos_en_rango  Pedidos entre $100 y $250.
+- http://127.0.0.1:8000/usuarios_con_r →Usuarios donde los nombres inician con "R".
+- http://127.0.0.1:8000/total_pedidos_usuario_5 Total de pedidos del usuario con ID 5.
+- http://127.0.0.1:8000/pedidos_ordenados Pedidos ordenados por total.
+- http://127.0.0.1:8000/suma_total_pedidos  Suma total de pedidos.
+- http://127.0.0.1:8000/pedido_mas_economico  Pedido más barato con usuario.
+- http://127.0.0.1:8000/pedidos_agrupados  Pedidos agrupados por usuario.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
